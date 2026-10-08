@@ -1,6 +1,6 @@
 > **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
 
-# NativeHiLog
+# How to Implement Logging in C
 
 This application (NativeHiLog) is a sample project on the wearable ecosystem that demonstrates how to implement logging in C++ for HarmonyOS using the HiLog library, and how to call these native functions from ArkTS.
 
@@ -58,4 +58,4 @@ This application (NativeHiLog) is a sample project on the wearable ecosystem tha
 
 # LICENSE
 
-NativeHiLog is distributed under the terms of the MIT License. See the [LICENSE](https://github.com/Explore-In-HMOS-Wearable/native-hilog/blob/main/LICENSE) for more information.
+**How to Implement Logging in C** is distributed under the terms of the MIT License. See the [LICENSE](LICENSE) for more information.
